@@ -3,7 +3,7 @@
 ### Использование:
 #### `python3 ppcov.py [--exclude 'EXCLUDE_PATTERN']`
 
-1.
+1. Скачать `ppcov.py`
 2. Собрать тесты с флагами `--coverage` и `-fPIC` </br>
 (`gcc --coverage -fPIC some_test_files.c -o tests/build/test_runner`) </br>
 3. Прогнать тесты </br>
