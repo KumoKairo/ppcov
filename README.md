@@ -1,4 +1,5 @@
 ### Спешл фо School21
+#### Замена `gcovr` / `lcov` на школьных маках
 
 ### Использование:
 #### `python3 ppcov.py [--exclude 'EXCLUDE_PATTERN']`
